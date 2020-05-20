@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sensores</string>
+
+    <string name="navigation_tittle">Uriel Rodriguez</string>
+    <string name="navigation_subtittle">urielrodriguezblanco@gmail.com</string>
+
+    <string name="titulo_acelerometro">Acelerometro</string>
+    <string name="titulo_luz">Sensor de Luz</string>
+    <string name="titulo_proximidad">Sensor de Proximidad</string>
+
+    <string name="subtitulo_acelerometro_x">Valor en el Eje X</string>
+    <string name="subtitulo_acelerometro_y">Valor en el Eje Y</string>
+    <string name="subtitulo_acelerometro_z">Valor en el Eje Z</string>
+    <string name="subtitulo_luz">Valor de luminiscencia</string>
+    <string name="subtitulo_proximidad">Objeto Detectado</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

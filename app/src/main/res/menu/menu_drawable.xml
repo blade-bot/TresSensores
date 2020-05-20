@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option_acelerometro"
+        android:icon="@drawable/ic_action_acelerometer"
+        android:title="@string/titulo_acelerometro"
+        android:textColor="#212121"/>
+    <item
+        android:id="@+id/option_luz"
+        android:icon="@drawable/ic_action_light"
+        android:title="@string/titulo_luz"
+        android:textColor="#212121"/>
+    <item
+        android:id="@+id/option_proximidad"
+        android:icon="@drawable/ic_action_proximity"
+        android:title="@string/titulo_proximidad"
+        android:textColor="#212121"/>
+</menu>
